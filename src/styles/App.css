@@ -252,10 +252,14 @@ body {
         margin-right: 8px;
     }
     .form-group input[type="text"],
-    .form-group input[type="password"],
-    .otp-inputs input {
+    .form-group input[type="password"] {
         font-size: 4vw;
         padding: 6px;
+    }
+    .otp-inputs input {
+        font-size: 5vw;
+        padding: 0px;
+        margin: 0px;
     }
     .sign-in-button,
     .verify-button {
