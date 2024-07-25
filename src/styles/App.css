@@ -200,21 +200,21 @@ body {
     }
     .login-form {
         margin-right: 0;
-        padding: 40px;
+        padding: 27px;
     }
     .login-form h2 {
-        font-size: 4vw;
+        font-size: 7vw;
     }
     .login-form p {
-        font-size: 2.2vw;
+        font-size: 4vw;
     }
     .form-group label {
-        font-size: 2.4vw;
+        font-size: 4vw;
     }
     .form-group input[type="text"],
     .form-group input[type="password"],
     .otp-inputs input {
-        font-size: 1.8vw;
+        font-size: 4vw;
         padding: 8px;
     }
     .sign-in-button,
@@ -250,7 +250,6 @@ body {
     }
     .checkbox-group input[type="checkbox"] {
         margin-right: 8px;
-        margin-bottom: 4%;
     }
     .form-group input[type="text"],
     .form-group input[type="password"],
@@ -262,7 +261,7 @@ body {
     .verify-button {
         font-size: 6vw;
         padding: 6px;
-        height: 35px;
+        height: 40px;
     }
     .forgot-password,
     .resend-otp {
