@@ -145,7 +145,7 @@ body {
     text-align: center;
     font-weight: 500;
     border: none;
-    border-radius: 8px;
+    border-radius: 10px;
     cursor: pointer;
 }
 
@@ -234,7 +234,7 @@ body {
 
 @media (max-width: 480px) {
     .login-form {
-        padding: 20px;
+        padding: 27px;
     }
     .login-form h2 {
         font-size: 7.5vw;
