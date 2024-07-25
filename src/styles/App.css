@@ -237,16 +237,16 @@ body {
         padding: 20px;
     }
     .login-form h2 {
-        font-size: 5vw;
+        font-size: 6.5vw;
     }
     .login-form p {
-        font-size: 3vw;
+        font-size: 5vw;
     }
     .logo p {
         font-size: 28px;
     }
     .form-group label {
-        font-size: 3vw;
+        font-size: 4vw;
     }
     .checkbox-group input[type="checkbox"] {
         margin-right: 8px;
@@ -255,12 +255,12 @@ body {
     .form-group input[type="text"],
     .form-group input[type="password"],
     .otp-inputs input {
-        font-size: 2.8vw;
+        font-size: 3vw;
         padding: 6px;
     }
     .sign-in-button,
     .verify-button {
-        font-size: 4vw;
+        font-size: 5vw;
         padding: 6px;
         height: 35px;
     }
