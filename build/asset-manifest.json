@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Ajaynp042/Aekads-log/static/css/main.cc7b973c.css",
+    "main.js": "/Ajaynp042/Aekads-log/static/js/main.5441cd5b.js",
+    "static/media/background.jpg": "/Ajaynp042/Aekads-log/static/media/background.48759b45aeba14a77fec.jpg",
+    "index.html": "/Ajaynp042/Aekads-log/index.html",
+    "main.cc7b973c.css.map": "/Ajaynp042/Aekads-log/static/css/main.cc7b973c.css.map",
+    "main.5441cd5b.js.map": "/Ajaynp042/Aekads-log/static/js/main.5441cd5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc7b973c.css",
+    "static/js/main.5441cd5b.js"
+  ]
+}
