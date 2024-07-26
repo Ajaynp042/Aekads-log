@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/Ajaynp042/Aekads-log/static/css/main.cc7b973c.css",
-    "main.js": "/Ajaynp042/Aekads-log/static/js/main.5441cd5b.js",
+    "main.css": "/Ajaynp042/Aekads-log/static/css/main.749c19d0.css",
+    "main.js": "/Ajaynp042/Aekads-log/static/js/main.d38e05b0.js",
+    "static/media/White Modern Mobile Wallpaper.png": "/Ajaynp042/Aekads-log/static/media/White Modern Mobile Wallpaper.ca97d319e1c855719506.png",
     "static/media/background.jpg": "/Ajaynp042/Aekads-log/static/media/background.48759b45aeba14a77fec.jpg",
     "index.html": "/Ajaynp042/Aekads-log/index.html",
-    "main.cc7b973c.css.map": "/Ajaynp042/Aekads-log/static/css/main.cc7b973c.css.map",
-    "main.5441cd5b.js.map": "/Ajaynp042/Aekads-log/static/js/main.5441cd5b.js.map"
+    "main.749c19d0.css.map": "/Ajaynp042/Aekads-log/static/css/main.749c19d0.css.map",
+    "main.d38e05b0.js.map": "/Ajaynp042/Aekads-log/static/js/main.d38e05b0.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc7b973c.css",
-    "static/js/main.5441cd5b.js"
+    "static/css/main.749c19d0.css",
+    "static/js/main.d38e05b0.js"
   ]
 }
