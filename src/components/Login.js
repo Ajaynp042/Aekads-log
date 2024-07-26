@@ -36,7 +36,7 @@ const Login = () => {
   };
 
   return (
-    <div className="login-container" style={{ backgroundImage: `url(${background})`, backgroundSize: 'cover' }}>
+    <div className="login-container">
       <div className="left">  
         <div className="logo">
           <img src={`${process.env.PUBLIC_URL}/Aek Ads Logo (1).svg`} alt="Logo" className="logo" />
