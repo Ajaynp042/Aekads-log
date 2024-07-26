@@ -251,6 +251,10 @@ body {
     .logo p {
         font-size: 28px;
         font-weight: bold;
+        background: linear-gradient(90deg, #ce7757 0%, #83777a 51.5%, #4ab9f5 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
     }
     .form-group label {
         font-size: 5vw;
