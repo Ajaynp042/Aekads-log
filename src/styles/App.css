@@ -251,7 +251,7 @@ body {
     .logo p {
         font-size: 26px;
         font-weight: bold;
-        background: linear-gradient(90deg, #eb9576 0%, #917f84 51.5%, #519cc5 100%);
+       background: linear-gradient(90deg, #EA5E2C 0%, #716164 51.5%, #006499 100%);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         background-clip: text;
